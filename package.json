@@ -1,0 +1,24 @@
+{
+  "name": "cryptomania-api",
+  "version": "1.0.0",
+  "description": "API for cryptomania project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erreke/cryptomania-api.git"
+  },
+  "author": "Yerbol Kuandykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erreke/cryptomania-api/issues"
+  },
+  "homepage": "https://github.com/Erreke/cryptomania-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.10"
+  }
+}
